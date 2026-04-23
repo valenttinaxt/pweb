@@ -3,15 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>valentina,mirella e maria letícia</title>
+    <title> Atividade 2</title>
 </head>
 <body>
  <h1>atividade 02</h1> 
- <p>valentina,mirella e maria letícia</p>
-
-
-
-
  
+ <hr> Esta palavra está em <b>Negrito</b>
+
+  Persista com coragem,<br>abraçando desafios.
+  <hr>
+
+  <p> Persista com coragem,</p>
+  <p> abraçando desafios.</p>
+  <hr>
+
+  <ul>
+   <li> Item 1</li>
+   <li> Item 2</li>
+   <li> Item 3</li>
+  </ul>
+   <hr>
+
+   <ol>
+   <li> Primeiro</li>
+   <li> Segundo</li>
+   <li> Terceiro</li>
+   </ol>
+ 
+   <img height="30px" src="https://suap.ifpi.edu.br/media/configuracao/logo-ifpi-transp.png">
 </body>
 </html>
